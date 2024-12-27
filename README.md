@@ -20,7 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Futuro da Medicina com a IA
+
+## 📒 Descrição
+Introdução: A Revolução Tecnológica na Medicina
+	•	Apresentação do tema: como a inteligência artificial está transformando a medicina.
+	•	Contextualização histórica: avanços tecnológicos no diagnóstico e tratamento.
+	•	Propósito: explorar como a IA poderá contribuir para o futuro da medicina.
+
+## 🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para criar o texto
+
+## 🧐 Processo de Criação
+Utilizei o ChatGPT para revisar a pesquisa sobre o assunto, organizar as ideias e montar o texto.
+
+## 🚀 Resultados
+O texto foi elaborado com linguagem simples e de fácil compreensão que aborda um assunto muito importante para a saúde e bem-estar das pessoas.
+
+## 💭 Reflexão (Opcional)
+Essa experiência foi importante para conhecer o potencial que as IAs Generativas podem nos auxiliar no campo da educação e conhecimento.
 
 ## 📒 Descrição
 Breve descrição do seu projeto
